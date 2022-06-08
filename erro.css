@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 100px;
+}
+
+.card {
+  background-color: #ac5d5d95;
+  padding: 30px;
+  border-radius: 4%;
+  box-shadow: 3px 3px 1px 0px #ffffff
+}
+
+a{
+  background-color: #830101;
+  color:#ffffff;
+  box-shadow: 2px 2px 1px;
+  padding: 5px;
+  text-decoration: none;
+}
+a:hover{
+  background-color: #ff0000;
+}
